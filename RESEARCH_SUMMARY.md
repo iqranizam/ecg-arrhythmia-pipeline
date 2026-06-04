@@ -1,5 +1,5 @@
 # ECG Arrhythmia Classification Pipeline
-## Research Project Summary for Dr. Santosh Ansumali, JNCASR
+## Research Project Summary
 
 ---
 
