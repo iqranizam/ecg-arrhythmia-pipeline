@@ -1,0 +1,26 @@
+# ECG Arrhythmia Pipeline - Exact Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core numerical and data processing
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.0.2
+
+# Machine learning
+scikit-learn==1.2.2
+xgboost==2.0.0
+
+# Visualization (optional, for notebooks)
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter (optional, for demo notebook)
+jupyter==1.0.0
+ipython==8.12.0
+notebook==6.5.4
+
+# Development tools (optional)
+pytest==7.3.1
+pytest-cov==4.1.0
+black==23.3.0
+flake8==5.0.4
